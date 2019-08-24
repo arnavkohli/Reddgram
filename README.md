@@ -48,7 +48,14 @@ rg = Reddgram(CLIENT_ID=client_id,
                     )
 rg.run()
 ```
-* Navigate back to the **src** directory and run the following command in the terminal:
+* Activate your virtual environment
+* Run the below command to install all the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+* Navigate to the **src** directory and run the following command in the terminal:
 
 ```    
 python main.py
