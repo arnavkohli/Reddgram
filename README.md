@@ -63,8 +63,8 @@ python main.py
 Contribute:
 ----------
 
-- Issue Tracker: https://github.com/arnavkohli/InstaMemeBot/issues
-- Source Code  : https://github.com/arnavkohli/InstaMemeBot
+- Issue Tracker: https://github.com/arnavkohli/Reddgram/issues
+- Source Code  : https://github.com/arnavkohli/Reddgram
 
 Support:
 -------
